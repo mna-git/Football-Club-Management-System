@@ -1,0 +1,7 @@
+Do to list.
+
+1.Import the winrar file to Netbeans IDE
+2.Import the database file to My-sql database server
+ using xampp server.
+
+3.We hve also added an executable file in dist folder.
